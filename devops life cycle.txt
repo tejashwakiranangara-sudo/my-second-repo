@@ -1,0 +1,17 @@
+Devops life cycle
+ 
+phase         description                     Real-time example
+
+plan mode      define what to build
+ 
+develop       write the code
+
+build     compile the code into deployable format
+
+test mode    check for bugs automatically
+
+Release    approve the build for deployment
+
+
+
+ 
